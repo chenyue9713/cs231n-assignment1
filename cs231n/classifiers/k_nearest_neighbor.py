@@ -6,6 +6,7 @@ class KNearestNeighbor(object):
   def __init__(self):
     pass
 
+
   def train(self, X, y):
     """
     Train the classifier. For k-nearest neighbors this is just 
